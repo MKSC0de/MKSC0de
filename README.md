@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Front-end developer
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Muhammed1114@gmail.com
 
 <!---
 MKSC0de/MKSC0de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
